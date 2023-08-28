@@ -8,3 +8,8 @@
 在branch1分支的第二次提交
 在master分支的第五次提交
 在master分支的第六次提交
+fork第一次提交
+fork第一次提交
+fork第二次提交
+fork第二次提交
+fork第二次提交
